@@ -4,9 +4,9 @@ import { MainNavigator } from './navigation/Navegador';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+
       <MainNavigator/>
-    </View>
+
   );
 }
 
